@@ -1,0 +1,8 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/app.ts",
+  "context": {
+    "githubRepo": "olivermooz-117/aws-cdk-workflow-capstone",
+    "githubBranch": "main",
+    "connectionArn": "arn:aws:codeconnections:us-east-2:325657596892:connection/f75f9621-da72-4729-9081-0c8dcd18b890"
+  }
+}
